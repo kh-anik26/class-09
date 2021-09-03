@@ -1,0 +1,106 @@
+*.xx{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-size: xx-large;
+    font-style: inherit;
+}
+ul{
+    list-style: none;
+}
+li{
+    float: left;
+}
+li a{
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-decoration-color:white;
+}
+li a:hover{
+    background-color: red;
+}
+.alpha{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+a{
+    color: white;
+}
+.bravo{
+    text-align: center;
+}
+.charley{
+    height: 450px;
+    width: 79%;
+    margin-top: 10px;
+    border: 1px solid black;
+    float: left;
+}
+.delta{
+    height: 500px;
+    width: 20%;
+    margin-top: 10px;
+    border: 1px solid black;
+    float: right;
+}
+h2{
+    text-align: center;
+    font-size: x-large;
+}
+.xxx{
+    padding: 5px;
+}
+.xxxy{
+    padding-left: 50px;
+}
+.aaa{
+    color: black;
+    text-decoration: none;
+}
+.aab{
+    color: black;
+    text-decoration: none;
+}
+.yyy{
+    padding-left: 70px;
+}
+.echo{
+    height: 450px;
+    width: 79%;
+    margin-top: 10px;
+    border: 1px solid black;
+    float: left;
+}
+.foxtroat{
+    height: 400px;
+    width: 20%;
+    margin-top: 10px;
+    border: 1px solid black;
+    float: right;
+}
+.aaaaa{
+    color: black;
+    text-decoration: none;
+}
+.yyyy{
+    padding-left: 4px;
+
+    padding-top: 10px;
+}
+.aac{
+    text-decoration: none;
+    color: black;
+}
+.xxxxx{
+    padding-left: 5px;
+}
+.gulf{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    float: right;
+    color: white;
+    text-align: center;
+}
